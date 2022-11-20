@@ -1,0 +1,29 @@
+person:
+  userName: Steve
+  boss: false
+  birth: 2019/12/23
+  age:
+  pet:
+    name: dog
+    weight: 99.99
+#  interests: [smoke,drink,perm]
+  interests:
+    - smoke
+    - drink
+    - perm
+  animal: [dog,cat]
+  score:
+    english: 80
+    math: 90
+  salarys:
+    - 9999.98
+    - 9999.99
+  allPets:
+    sick:
+      - {name: tom, weight=99.99}
+      - name: jack
+        weight: 88.88
+      - name: jackson
+        weight: 2.4
+    health:
+
